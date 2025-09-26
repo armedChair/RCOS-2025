@@ -1,1 +1,1 @@
-print ("Hello jupiter")
+print ("Hello mars")
